@@ -2,7 +2,7 @@
 Repositório para armazenar informações com as respectivas entregas dos trabalhos da disciplina
 
 ## Nome do Projeto:
-Droco
+Ramírez
 
 ## Integrantes:
 - Davi dos Santos Freitas (Nasalis)
@@ -10,4 +10,4 @@ Droco
 
 ## Ferramentas:
 - Prototipação:
-  - Figma: https://www.figma.com/file/cOwwb2VGmEsEI1R0rnzblF/Projeto-Integrado-II?node-id=0%3A1
+  - [Figma:](https://www.figma.com/file/cOwwb2VGmEsEI1R0rnzblF/Projeto-Integrado-II?node-id=0%3A1)
